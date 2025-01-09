@@ -11,7 +11,7 @@ def dispatch_query(query):
         return run_ollama('mistral', query)
     elif query_type == 'long':
         return run_ollama('llama2', query)
-    elif "check email" in query:
+    elif "check email" in query or "can you please check my emails" in query or "check email" in query or "check my email" in query:
         list_emails()
         return "Checking your emails."
     elif "send WhatsApp message" in query:

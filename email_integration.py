@@ -5,8 +5,8 @@ import email
 from email.header import decode_header
 
 # Your email and app password
-username = "your_email@gmail.com"
-app_password = "poes vbhb ecik cnsx"
+username = "xxxxxxxxxxxxxxxxx"
+app_password = "xxxxxxxxxxxxxxxxxxxxxxx"
 
 def list_emails():
     # Connect to the Gmail IMAP server

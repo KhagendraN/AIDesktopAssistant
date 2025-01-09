@@ -7,3 +7,5 @@ def run_ollama(model_name, query):
     #print(f"Output: {result.stdout}")  # Debug print
     print(f"Error: {result.stderr}")  # Debug print
     return result.stdout.strip()
+
+#this will run command on terminal 
