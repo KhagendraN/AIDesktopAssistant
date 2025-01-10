@@ -149,6 +149,4 @@ def speak(text):
 
 We welcome contributions! If you'd like to contribute, please fork the repository and create a pull request. Make sure your changes follow the code style and are well-documented.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
