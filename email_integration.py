@@ -1,4 +1,3 @@
-#app_password = "poes vbhb ecik cnsx"
 
 import imaplib
 import email
